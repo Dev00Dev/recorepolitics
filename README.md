@@ -15,3 +15,4 @@ We simply trace all political trends and all their deviations in order to define
 ---
 
 <img src="https://i.goopics.net/rkgflr.png" alt="GGECOROD" width="300">
+Classified as such because it can be used on platforms with many users and, although more environmentally friendly than a normal algorithm, it still pollutes a little.
