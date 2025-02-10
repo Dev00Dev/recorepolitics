@@ -14,4 +14,4 @@ We simply trace all political trends and all their deviations in order to define
 
 ---
 
-<img src="https://i.goopics.net/0wb88r.png" alt="GGECOROD" width="300">
+<img src="https://i.goopics.net/rkgflr.png" alt="GGECOROD" width="300">
