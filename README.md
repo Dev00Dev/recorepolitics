@@ -10,6 +10,7 @@ The fundamental operation of this algorithm relies on a straightforward calculat
 
 ## Simplified visualization
 ![img présentation](https://i.goopics.net/v3b9d6.png)
+![img présentation](https://i.goopics.net/v4lppj.png)
 
 
 ## How does ReCore politics define the opinions to be defined by its algorithm?
