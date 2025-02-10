@@ -1,25 +1,121 @@
 [
     {
         "content_id": "content1",
-        "title": "Politique Économique",
-        "text": "Discussion sur les nouvelles politiques économiques.",
+        "title": "Réforme Fiscale 2025",
+        "text": "Analyse des nouvelles mesures fiscales proposées pour 2025 et leur impact sur les ménages.",
         "similar": ["content3", "content4"],
         "different": ["content5", "content6"],
         "less_frequent": ["content7", "content8"]
     },
     {
         "content_id": "content2",
-        "title": "Politique Environnementale",
-        "text": "Débats sur les initiatives écologiques.",
+        "title": "Initiatives Écologiques",
+        "text": "Discussion sur les nouvelles initiatives écologiques pour réduire l'empreinte carbone.",
         "similar": ["content4", "content5"],
         "different": ["content6", "content7"],
         "less_frequent": ["content8", "content9"]
     },
     {
         "content_id": "content3",
-        "title": "Réformes Sociales",
-        "text": "Propositions de réformes dans le secteur social.",
+        "title": "Réforme du Système de Retraite",
+        "text": "Propositions pour réformer le système de retraite et assurer sa pérennité.",
         "similar": ["content1", "content4"],
+        "different": ["content6", "content7"],
+        "less_frequent": ["content8", "content9"]
+    },
+    {
+        "content_id": "content4",
+        "title": "Réforme de la Santé Publique",
+        "text": "Analyse des réformes proposées pour améliorer le système de santé publique.",
+        "similar": ["content1", "content3"],
+        "different": ["content5", "content7"],
+        "less_frequent": ["content6", "content9"]
+    },
+    {
+        "content_id": "content5",
+        "title": "Réforme Éducative",
+        "text": "Discussions sur les réformes éducatives visant à améliorer le système éducatif.",
+        "similar": ["content2", "content6"],
+        "different": ["content4", "content8"],
+        "less_frequent": ["content7", "content9"]
+    },
+    {
+        "content_id": "content6",
+        "title": "Politique de Sécurité Intérieure",
+        "text": "Débats sur les mesures de sécurité intérieure et leur impact sur la société.",
+        "similar": ["content5", "content7"],
+        "different": ["content3", "content4"],
+        "less_frequent": ["content8", "content9"]
+    },
+    {
+        "content_id": "content7",
+        "title": "Politique d'Immigration",
+        "text": "Analyse des politiques d'immigration et des réformes en cours.",
+        "similar": ["content6", "content8"],
+        "different": ["content1", "content2"],
+        "less_frequent": ["content4", "content9"]
+    },
+    {
+        "content_id": "content8",
+        "title": "Infrastructures de Transport",
+        "text": "Discussions sur les projets d'infrastructures de transport et leur financement.",
+        "similar": ["content7", "content9"],
+        "different": ["content2", "content3"],
+        "less_frequent": ["content4", "content5"]
+    },
+    {
+        "content_id": "content9",
+        "title": "Promotion de la Culture",
+        "text": "Débats sur les politiques culturelles et les initiatives pour promouvoir les arts.",
+        "similar": ["content8", "content5"],
+        "different": ["content1", "content6"],
+        "less_frequent": ["content3", "content4"]
+    },
+    {
+        "content_id": "content10",
+        "title": "Transition Énergétique",
+        "text": "Analyse des politiques de transition énergétique vers des sources renouvelables.",
+        "similar": ["content2", "content8"],
+        "different": ["content6", "content7"],
+        "less_frequent": ["content3", "content4"]
+    },
+    {
+        "content_id": "content11",
+        "title": "Politique de Logement",
+        "text": "Discussions sur les politiques de logement et les solutions pour le logement abordable.",
+        "similar": ["content3", "content6"],
+        "different": ["content2", "content9"],
+        "less_frequent": ["content4", "content7"]
+    },
+    {
+        "content_id": "content12",
+        "title": "Droits des Travailleurs",
+        "text": "Analyse des politiques visant à améliorer les droits des travailleurs et les conditions de travail.",
+        "similar": ["content4", "content5"],
+        "different": ["content1", "content8"],
+        "less_frequent": ["content6", "content9"]
+    },
+    {
+        "content_id": "content13",
+        "title": "Politique de Défense",
+        "text": "Débats sur les politiques de défense nationale et les dépenses militaires.",
+        "similar": ["content6", "content7"],
+        "different": ["content2", "content3"],
+        "less_frequent": ["content4", "content5"]
+    },
+    {
+        "content_id": "content14",
+        "title": "Politique de Commerce International",
+        "text": "Discussions sur les politiques de commerce international et les accords commerciaux.",
+        "similar": ["content1", "content10"],
+        "different": ["content5", "content9"],
+        "less_frequent": ["content3", "content8"]
+    },
+    {
+        "content_id": "content15",
+        "title": "Politique de Protection Sociale",
+        "text": "Analyse des politiques de protection sociale et des aides aux plus démunis.",
+        "similar": ["content3", "content12"],
         "different": ["content6", "content7"],
         "less_frequent": ["content8", "content9"]
     }
