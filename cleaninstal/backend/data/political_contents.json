@@ -1,1 +1,26 @@
-
+[
+    {
+        "content_id": "content1",
+        "title": "Politique Économique",
+        "text": "Discussion sur les nouvelles politiques économiques.",
+        "similar": ["content3", "content4"],
+        "different": ["content5", "content6"],
+        "less_frequent": ["content7", "content8"]
+    },
+    {
+        "content_id": "content2",
+        "title": "Politique Environnementale",
+        "text": "Débats sur les initiatives écologiques.",
+        "similar": ["content4", "content5"],
+        "different": ["content6", "content7"],
+        "less_frequent": ["content8", "content9"]
+    },
+    {
+        "content_id": "content3",
+        "title": "Réformes Sociales",
+        "text": "Propositions de réformes dans le secteur social.",
+        "similar": ["content1", "content4"],
+        "different": ["content6", "content7"],
+        "less_frequent": ["content8", "content9"]
+    }
+]
