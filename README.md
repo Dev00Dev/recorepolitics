@@ -5,3 +5,5 @@ The repository for Rodrigue ReCore - Politics version. The recommendation algori
 
 ## How does it work ? 
 ReCore Politics is a so-called "light" algorithm, meaning that it does not require multiple energy-intensive servers to operate, but can work very well locally. This reduces the complexity of the calculations while maintaining a reliable and rich content recommendation while maintaining control.
+
+The fundamental operation of this algorithm relies on a straightforward calculation : assigning one or more "identifiers" to a user's content. This means the algorithm will determine the user's various opinions and associate each opinion with a specific predefined identifier. Consequently, it will be able to suggest relevant content to the user at an adaptable frequency, thereby reaching a new target audience. ReCore has its own set of predefined identifiers, but it is also possible to create new ones.
