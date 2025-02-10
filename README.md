@@ -11,3 +11,7 @@ The fundamental operation of this algorithm relies on a straightforward calculat
 
 ## How does ReCore politics define the opinions to be defined by its algorithm?
 We simply trace all political trends and all their deviations in order to define them in our algorithm. Owners are free to modify or adapt them.
+
+---
+
+<img src="https://i.goopics.net/0wb88r.png" alt="GGECOROD" width="300">
