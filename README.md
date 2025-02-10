@@ -8,5 +8,6 @@ ReCore Politics is a so-called "light" algorithm, meaning that it does not requi
 
 The fundamental operation of this algorithm relies on a straightforward calculation : assigning one or more "identifiers" to a user's content. This means the algorithm will determine the user's various opinions and associate each opinion with a specific predefined identifier. Consequently, it will be able to suggest relevant content to the user at an adaptable frequency, thereby reaching a new target audience. ReCore has its own set of predefined identifiers, but it is also possible to create new ones.
 
+
 ## How does ReCore politics define the opinions to be defined by its algorithm?
 We simply trace all political trends and all their deviations in order to define them in our algorithm. Owners are free to modify or adapt them.
