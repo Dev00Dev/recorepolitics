@@ -7,9 +7,7 @@ class RecommendationSystem:
         self.content_manager = ContentManager()
 
     def recommend(self, user_id, content_id):
-        # Vérifier si l'utilisateur a interagi avec le contenu
         if self.user_manager.has_interaction(user_id, content_id):
-            # Évaluer si l'interaction est positive ou négative
             if self.user_manager.is_positive_interaction(user_id, content_id):
                 return self.content_manager.get_similar_contents(content_id)
             else:
